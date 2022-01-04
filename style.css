@@ -8,6 +8,7 @@ body{
 .container{
     display: flex;
     flex-direction: column;
+    align-items:center;
     background-color:#1F2937;
     color: floralwhite;
     padding: 30px;
@@ -20,6 +21,7 @@ body{
     display: flex;  
     
 }
+
 
 .awesome-section{
     display:flex;
