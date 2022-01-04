@@ -45,8 +45,9 @@ body{
 .img p{
     
     
-    padding: 70px;
+    padding: 100px 45px;
     font-size: 10px;
+    text-align:center;
     
     
 }
@@ -70,7 +71,7 @@ ul{
    display: flex;
    gap: 12px;
    margin-top: 6px;
-   margin-left: 450px;
+   margin-left: 400px;
    
 }
 
