@@ -151,6 +151,7 @@ a{
     gap: 30px;
     padding: 20px 50px;
     border-radius: 10px;
+    align-items:center;
 }
 
 .left-text{
